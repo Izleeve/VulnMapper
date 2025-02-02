@@ -16,7 +16,7 @@ Ensure you have the following installed:
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/VulnMapper.git
+git clone https://github.com/Izleeve/VulnMapper.git
 cd VulnMapper
 pip install python-nmap
 ```
